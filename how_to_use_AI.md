@@ -18,6 +18,24 @@ RL models are like a high-dimensional cone focused toward a single (maybe right)
 
 Base models are like a spider web connecting many solutions, all floating in a log-probability soup.
 
+### Reinforcement Learning Trained Models
+Generally more useful as they trade off variance for accuracy.
+The base model are hard to get instructed accurately.
+Largely the same for instruction tuned model(Requires meticulous testing of prompts)
+
+RL, generally friendly(Narow expected behavior and high averge)
+"Doesn't need personas like "act like an nvidia engineer"
+Implicitly biases towards highest accuracy answers through training.
+~"You can almost always prompt a base model to beat it's RL version"~
+"Newer Models such as o1,o3,deepseek-r1 out perform test time compute + prompting"
+They do this by training with prompting + in context learning during
+
+
+Downsides:
+As you train them you introduce mode collapse
+![image](https://github.com/user-attachments/assets/b0ba2565-8697-46f3-a5d9-901956a6db35)
+
+
 ## Chain of Thought
 
 Chain of Thought is everything. You can do anything besides—but thinking is always contextual.
