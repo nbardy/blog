@@ -1,5 +1,14 @@
 ## Rough Notes
 
+## Use small models to stuff the Context Window
+Increasing Context Quality and Length increases
+You can use tiny models to stuff context.
+e.g. o4-mini "suggest 10 different reasons for this bug", "Suggest 3 different directions to explore"
+Use a slower model o1, o1-pro, o3-mini-high to reasoning.
+"Check all this work of a dummer model"
+Is any of it correct? Suggest a final correct answer and reasoning
+
+
 ## First Steps
 Buy good models!
 ChatGPT or Claude. Get a plus account—at least $20-40 (These are about equivalent).
