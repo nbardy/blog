@@ -1,5 +1,7 @@
 ## Rough Notes
 
+These are my rough notes used a draft for creating slides in a short presentation I gave, "How to stop writing Code"
+
 ## Use small models to stuff the Context Window
 Increasing Context Quality and Length increases
 You can use tiny models to stuff context.
@@ -82,28 +84,12 @@ Filtering on correctness sharpens point collapse on input.
 
 Mapping to less varied input progressively trains models on narrower input data, causing them to progressively de-generalize in context.
 
-## Real Project Notes (Game Prototype with 0% Human-Written Code)
 
-I've been experimenting with a project to create a game entirely with AI-generated code (0% human-written). Partly to build the game, partly to benchmark these new long-context models on a larger, more complex project.
-
-Initially, I tried MCP and Claude Desktop for this—0% coding, including tests and browser runs with MCP. It got about 70% there but then went haywire for several hours and couldn't finish.
-
-This weekend, I finally achieved a working prototype using a different approach—mostly ChatGPT-generated code without MCP.
-
-## Key Takeaways:
+## Key Takeaways(Boring AI Summary)
 
 - **Work in Chunks:** AI can't handle render+network+state all at once.
 - **Rollback:** If AI can't quickly fix an error, revert to a stable checkpoint.
 - **Always ask ChatGPT for patches.**
 - **Manual testing:** Frequent testing is crucial (AI is overly confident that its code works).
 - **Log Everything!** Long-context models thrive on giant, noisy logs—output and print everything.
-
-## Slides
-
-- **Slide 1:** Base Models vs. RL [Graphic PENDING: Visualization of "Spider web" vs. "High-dimensional cone"]
-- **Slide 2:** Chain of Thought [Graphic PENDING: Flowchart illustrating Chain of Thought]
-- **Slide 3:** Reasoning and Thinking Continuum [Graphic PENDING: Gradient scale from Reasoning to Extended Thinking]
-- **Slide 4:** Point Collapse Concept [Graphic PENDING: Visualization of points collapsing towards a single direction (cone-shaped), enhanced with lines illustrating function mappings clearly]
-- **Slide 5:** Project Workflow (0% Human-Written Code) [Graphic PENDING: Diagram showing iterative workflow with checkpoints and rollback]
-- **Slide 6:** Input Degeneralization [Graphic PENDING: Progressive narrowing of input diversity visualized as shrinking funnels or narrowing paths]
 
