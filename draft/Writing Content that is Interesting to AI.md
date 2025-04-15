@@ -1,4 +1,4 @@
-# Writing Content that is Interesting to AI
+# Writing Content that is Interesting to AI (Superhuman Questions)
 
 Inspired by watching a video of Tyler Cowen and his incesstant desire to "write for AI". More and more this question hits my mind. Besides using ChatGPT more often what can we really do to make more use of AI. Tyler Cowen suggest, "Write for AI". More pointedly in this recent intereview he says, ["modify your writing to make it more interesting for AI" ](https://www.youtube.com/watch?v=t6Je8EKhUyw). As Tyler Cowen usually is, terse, brilliant and almost undecipherable.
 
@@ -57,5 +57,25 @@ However I don't see this as a doom loop. Because even a self directed AI needs a
 
 And what's the best way to ask a question. Give it to another agent. Pass the small dense framework of your require evaluation for human/product/societal alignment. And let the agent execute the reading and probing of the self directed agent already working on the problem. As the frequency of checking in with AI goes down and their task horizon goes up. The value of each check in raised drastically.
 
+## Learn to Ask AI Super-human Questions
+
+This all wraps up to my final point. Our new overlords the overwhelian LLM's here to observe our evry thought and complete our every action in almost instantaneous time. They will be smarter faster collaborate more seemlessly and parallelize better than us. They will be super-human. However, what use is a superhuman without superhuman questions? Learning to ask questions that you yourself could never answer becomes the new super power.
+
+The only trick I found to asking superhumans questions to consume lots of mathematics and research and look for combinations of ideas that are **compatible** but have not been ued together yet. 
+
+For example in geometry:
+The "Menger Cube" and the "hyper cube". Both are cubes, one is 4D one is 3D. Turns out the AI can make the Menger Hyper Cube. A menger cube in 4D.
 
 
+## What have I been doing with AI?
+
+Their is only a few categeories where I know enough to ask for things that don't exist yet: Geometry and Computer Science. In both of these things
+I have managed to achieve feats that I myself was not able to do alone:
+1) Render higher dimensional objects ([4D Spheres / S3, mengerhypercube, etc...](https://www.shadertoy.com/view/MXtBWs))
+2) Writing a programmming language with compiler and interpreter (My first one here [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt), And 2 more as internal Research Projects at both Adobe and LeonardoAI)
+
+In both cases these are tasks that *I could* of done alone. Given my past experience but the scope of the projects would of been so much narrower or required assistance from another engineer. Instead I was build a functional version in days rather than months.
+Writing programming languages:
+`SuperPrompt` - Note I have also done this many times 
+
+Checkout out [shadertoy collection](https://www.shadertoy.com/profile/?show=shaders) at 
