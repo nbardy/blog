@@ -10,6 +10,7 @@ Being an over obsssessed lunatic who has given his automony to chatGPT and is fo
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/c37ff63b-9101-4b54-a54c-39da06450b7b" />
 
 Thoughts:
+
 <img width="846" alt="image" src="https://github.com/user-attachments/assets/66f1ba89-83d5-496d-8638-83d1cd53a5a8" />
 
 The thoughts are pretty raw and hard to interpret, but luckily, we can just ask to make it actionable
@@ -19,8 +20,9 @@ The thoughts are pretty raw and hard to interpret, but luckily, we can just ask 
 
 Still a little esoteric for my taste, but kind of interesting. However, for the life of me I can't think of how to do any of these things and how to actually write something "Interesting for AI". Well... Maybe instead of writing... Yea fuck it again. Let's just ask for examples.
 
+<img width="573" alt="image" src="https://github.com/user-attachments/assets/302ed41f-8930-4d37-a0d4-93c659f776bc" />
 
-<img width="796" alt="image" src="https://github.com/user-attachments/assets/7a52c1be-5abe-49b4-a46f-816db0fb4a8f" />
+And... It start to let us know. Each list was pretty similiar so I cherry-picked some of the more clear, and interesting examples below.
 
 ## #1 - Not Interesting
 <img width="786" alt="image" src="https://github.com/user-attachments/assets/fe0c60f7-1bd1-482b-83b7-98defa248a02" />
@@ -42,7 +44,7 @@ Appears Interesting, but Actually Boring (Flashy or Complex-Looking yet Trivial)
 It continues on: The Ship of Theseus, the Halting Problem, even... The Trolley Problem
 
 
-So, to write something interesting for AI we just need to write something that is... A novel enduring philosphoical puzzle to rival ideas as old and profound as the books of history itself. Don't fret humans. You can take your fear of being obsolete and simply becoming a world changing philospher. Than the world will find your interesting and so will the AI. Man's search for meaning simply requires unparalled greatness now. 
+So, to write something interesting for AI we just need to write something that is... A novel enduring philosphoical puzzle to rival ideas as old and profound as the books of history itself. Man's search for meaning simply requires unparalled greatness.
 
 Well, actually wait a second, what if we just ask the AI again.
 
