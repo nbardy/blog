@@ -40,17 +40,20 @@ Appears Interesting, but Actually Boring (Flashy or Complex-Looking yet Trivial)
 <img width="786" alt="image" src="https://github.com/user-attachments/assets/fa547f2c-c31a-4c35-bc1e-0d0808de9cfa" />
 
 It continues on: The Ship of Theseus, the Halting Problem, even... The Trolley Problem
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/6ee0058b-6be2-499a-8db8-94a09ac1fd46" />
+
 
 So, to write something interesting for AI we just need to write something that is... A novel enduring philosphoical puzzle to rival ideas as old and profound as the books of history itself. Don't fret humans. You can take your fear of being obsolete and simply becoming a world changing philospher. Than the world will find your interesting and so will the AI. Man's search for meaning simply requires unparalled greatness now. 
 
-![Uploading image.png…]()
+Well, actually wait a second, what if we just ask the AI again.
+
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/6ee0058b-6be2-499a-8db8-94a09ac1fd46" />
+
 
 Honestly kind of interesting, and I've never been able to come up with a paradox like this myself. So is this interesting to AI? And did we actually write it?
 
 Well, that opens up perhaps more interesting a question: "Can content that comes out of an AI model be new or suprising. Give it's sampling from a model of high likelyhood. The answer is yes, because the human is still injeecting direction and steering the model. Everytime you adjust a prompt you have an opportunity to move a model away from it's expected output. An AI prompted in a novel direction create contents that is novel from the training data. We can maintaain the "rules and order" implied by the model weights while still shifting the distribution of the output to something unique.
 
-However perhaps this a brief window that is closing. As AI become better at self direction, how much does it even matter what we ask for or how we ask for it. As 
+Perhaps this a brief window that is closing. As AI become better at self direction, how much does it even matter what we ask for or how we ask for it. As 
 Acording to thinking model like R1, maybe not. This model is trained on a reflection of it's own thoughts. Initially the thoughts fail, but examining piles of failed and unfailed thoughts eventually it transcends it's own capacity merely with reflection on it's own failure and self direction.
 
 However I don't see this as a doom loop. Because even a self directed AI needs a starting point. The prompts may become smaller and simpler, but they'll still be relevant. And then as they become more agentic. Being able to check in and analyze what they are doing becomes more important.
