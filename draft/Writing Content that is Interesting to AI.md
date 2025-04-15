@@ -53,6 +53,10 @@ Well, actually wait a second, what if we just ask the AI again.
 
 Honestly kind of interesting, and I've never been able to come up with a paradox like this myself. So is this interesting to AI? And did we actually write it?
 
+Turns out sort of. This sort of self-referential paradox has been well defined in philosphy.
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/13decacc-bbd1-4ca0-b956-a4f67f9a53fd" />
+
+
 Well, that opens up perhaps more interesting a question: "Can content that comes out of an AI model be new or suprising. Give it's sampling from a model of high likelyhood. The answer is yes, because the human is still injeecting direction and steering the model. Everytime you adjust a prompt you have an opportunity to move a model away from it's expected output. An AI prompted in a novel direction create contents that is novel from the training data. We can maintaain the "rules and order" implied by the model weights while still shifting the distribution of the output to something unique.
 
 Perhaps this a brief window that is closing. As AI become better at self direction, how much does it even matter what we ask for or how we ask for it. As 
