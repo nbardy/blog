@@ -81,7 +81,7 @@ The "Menger Cube" and the "hyper cube". Both are cubes, one is 4D one is 3D. Tur
 Their is only a few categeories where I know enough to ask for things that don't exist yet: Geometry and Computer Science. In both of these things
 I have managed to achieve feats that I myself was not able to do alone:
 1) Render higher dimensional objects ([4D Spheres / S3, mengerhypercube, etc...](https://www.shadertoy.com/view/MXtBWs))
-2) Writing a programmming language with compiler and interpreter (My first one here [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt), And 2 more as internal Research Projects at both Adobe and LeonardoAI)
+2) Writing a programmming language with compiler and interpreter (My first one here [SynesthesiaLisp](https://github.com/nbardy/SynesthesiaLisp) another DSL here for doing math with LLM, [MTCS](https://github.com/NeoVertex1/SuperPrompt/blob/main/CTMS.md), And 2 more as internal Research Projects at both Adobe and LeonardoAI)
 
 In both cases these are tasks that *I could* of done alone. Given my past experience but the scope of the projects would of been so much narrower or required assistance from another engineer. Instead I was build a functional version in days rather than months.
 Writing programming languages:
